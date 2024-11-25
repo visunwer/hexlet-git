@@ -1,2 +1,0 @@
-Haskel Cutty
-Hooray!
