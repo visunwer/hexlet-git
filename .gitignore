@@ -8,6 +8,7 @@
 access.log
 INFO.md
 .DS_Store
+text.txt
 
 # Игнорируем директорию в любой директории проекта
 node_modules/
